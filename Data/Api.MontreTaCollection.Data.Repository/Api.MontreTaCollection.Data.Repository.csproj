@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Api.MontreTaCollection.Data.Context.Contract\Api.MontreTaCollection.Data.Context.Contract.csproj" />
+    <ProjectReference Include="..\Api.MontreTaCollection.Data.Context\Api.MontreTaCollection.Data.Context.csproj" />
+    <ProjectReference Include="..\Api.MontreTaCollection.Data.Repository.Contract\Api.MontreTaCollection.Data.Repository.Contract.csproj" />
+  </ItemGroup>
+
+</Project>

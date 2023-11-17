@@ -1,0 +1,17 @@
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Business\Api.MontreTaCollection.Business.Mapper\bin\Debug\net7.0\Api.MontreTaCollection.Business.Mapper.deps.json
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Business\Api.MontreTaCollection.Business.Mapper\bin\Debug\net7.0\Api.MontreTaCollection.Business.Mapper.dll
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Business\Api.MontreTaCollection.Business.Mapper\bin\Debug\net7.0\Api.MontreTaCollection.Business.Mapper.pdb
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Business\Api.MontreTaCollection.Business.Mapper\bin\Debug\net7.0\Api.MontreTaCollection.Business.Dto.dll
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Business\Api.MontreTaCollection.Business.Mapper\bin\Debug\net7.0\Api.MontreTaCollection.Data.Entity.dll
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Business\Api.MontreTaCollection.Business.Mapper\bin\Debug\net7.0\Api.MontreTaCollection.Data.Entity.pdb
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Business\Api.MontreTaCollection.Business.Mapper\bin\Debug\net7.0\Api.MontreTaCollection.Business.Dto.pdb
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Business\Api.MontreTaCollection.Business.Mapper\obj\Debug\net7.0\Api.MontreTaCollection.Business.Mapper.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Business\Api.MontreTaCollection.Business.Mapper\obj\Debug\net7.0\Api.MontreTaCollection.Business.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Business\Api.MontreTaCollection.Business.Mapper\obj\Debug\net7.0\Api.MontreTaCollection.Business.Mapper.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Business\Api.MontreTaCollection.Business.Mapper\obj\Debug\net7.0\Api.MontreTaCollection.Business.Mapper.AssemblyInfo.cs
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Business\Api.MontreTaCollection.Business.Mapper\obj\Debug\net7.0\Api.MontreTaCollection.Business.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Business\Api.MontreTaCollection.Business.Mapper\obj\Debug\net7.0\Api.MontreTaCollection.Business.Mapper.csproj.CopyComplete
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Business\Api.MontreTaCollection.Business.Mapper\obj\Debug\net7.0\Api.MontreTaCollection.Business.Mapper.dll
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Business\Api.MontreTaCollection.Business.Mapper\obj\Debug\net7.0\refint\Api.MontreTaCollection.Business.Mapper.dll
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Business\Api.MontreTaCollection.Business.Mapper\obj\Debug\net7.0\Api.MontreTaCollection.Business.Mapper.pdb
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Business\Api.MontreTaCollection.Business.Mapper\obj\Debug\net7.0\ref\Api.MontreTaCollection.Business.Mapper.dll

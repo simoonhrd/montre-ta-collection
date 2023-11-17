@@ -1,0 +1,14 @@
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Data\Api.MontreTaCollection.Data.Entity\bin\Debug\net7.0\Api.MontreTaCollection.Data.Entity.deps.json
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Data\Api.MontreTaCollection.Data.Entity\bin\Debug\net7.0\Api.MontreTaCollection.Data.Entity.dll
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Data\Api.MontreTaCollection.Data.Entity\bin\Debug\net7.0\Api.MontreTaCollection.Data.Entity.pdb
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Data\Api.MontreTaCollection.Data.Entity\obj\Debug\net7.0\Api.MontreTaCollection.Data.Entity.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Data\Api.MontreTaCollection.Data.Entity\obj\Debug\net7.0\Api.MontreTaCollection.Data.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Data\Api.MontreTaCollection.Data.Entity\obj\Debug\net7.0\Api.MontreTaCollection.Data.Entity.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Data\Api.MontreTaCollection.Data.Entity\obj\Debug\net7.0\Api.MontreTaCollection.Data.Entity.AssemblyInfo.cs
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Data\Api.MontreTaCollection.Data.Entity\obj\Debug\net7.0\Api.MontreTaCollection.Data.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Data\Api.MontreTaCollection.Data.Entity\obj\Debug\net7.0\Api.MontreTaCollection.Data.Entity.dll
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Data\Api.MontreTaCollection.Data.Entity\obj\Debug\net7.0\refint\Api.MontreTaCollection.Data.Entity.dll
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Data\Api.MontreTaCollection.Data.Entity\obj\Debug\net7.0\Api.MontreTaCollection.Data.Entity.pdb
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Data\Api.MontreTaCollection.Data.Entity\obj\Debug\net7.0\ref\Api.MontreTaCollection.Data.Entity.dll
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Data\Api.MontreTaCollection.Data.Entity\bin\Debug\net7.0\Api.MontreTaCollection.Data.Entity.runtimeconfig.json
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Data\Api.MontreTaCollection.Data.Entity\obj\Debug\net7.0\Api.MontreTaCollection.Data.Entity.genruntimeconfig.cache

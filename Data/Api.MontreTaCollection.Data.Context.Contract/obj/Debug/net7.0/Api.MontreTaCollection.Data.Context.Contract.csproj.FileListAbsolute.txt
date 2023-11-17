@@ -1,0 +1,15 @@
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Data\Api.MontreTaCollection.Data.Context.Contract\bin\Debug\net7.0\Api.MontreTaCollection.Data.Context.Contract.deps.json
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Data\Api.MontreTaCollection.Data.Context.Contract\bin\Debug\net7.0\Api.MontreTaCollection.Data.Context.Contract.dll
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Data\Api.MontreTaCollection.Data.Context.Contract\bin\Debug\net7.0\Api.MontreTaCollection.Data.Context.Contract.pdb
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Data\Api.MontreTaCollection.Data.Context.Contract\bin\Debug\net7.0\Api.MontreTaCollection.Data.Entity.dll
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Data\Api.MontreTaCollection.Data.Context.Contract\bin\Debug\net7.0\Api.MontreTaCollection.Data.Entity.pdb
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Data\Api.MontreTaCollection.Data.Context.Contract\obj\Debug\net7.0\Api.MontreTaCollection.Data.Context.Contract.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Data\Api.MontreTaCollection.Data.Context.Contract\obj\Debug\net7.0\Api.MontreTaCollection.Data.Context.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Data\Api.MontreTaCollection.Data.Context.Contract\obj\Debug\net7.0\Api.MontreTaCollection.Data.Context.Contract.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Data\Api.MontreTaCollection.Data.Context.Contract\obj\Debug\net7.0\Api.MontreTaCollection.Data.Context.Contract.AssemblyInfo.cs
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Data\Api.MontreTaCollection.Data.Context.Contract\obj\Debug\net7.0\Api.MontreTaCollection.Data.Context.Contract.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Data\Api.MontreTaCollection.Data.Context.Contract\obj\Debug\net7.0\Api.MontreTaCollection.Data.Context.Contract.csproj.CopyComplete
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Data\Api.MontreTaCollection.Data.Context.Contract\obj\Debug\net7.0\Api.MontreTaCollection.Data.Context.Contract.dll
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Data\Api.MontreTaCollection.Data.Context.Contract\obj\Debug\net7.0\refint\Api.MontreTaCollection.Data.Context.Contract.dll
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Data\Api.MontreTaCollection.Data.Context.Contract\obj\Debug\net7.0\Api.MontreTaCollection.Data.Context.Contract.pdb
+C:\Users\Simon\Desktop\SIMPLON\Brief\MontreTaCollection\Data\Api.MontreTaCollection.Data.Context.Contract\obj\Debug\net7.0\ref\Api.MontreTaCollection.Data.Context.Contract.dll
